@@ -1,0 +1,30 @@
+.wrapper {
+  position: relative;
+  height: 500px;
+  margin-top: 50px;
+  width: 300px;
+}
+.card{
+  position: absolute;
+  border-radius: 12px;
+  width: 250px;
+  height:300px;
+  transition: all .3s ease-in-out;
+
+}
+.container{
+  padding: 20px;
+  display: flex;
+    flex-direction: column;
+  gap: 20px;
+}
+.thumbnailImage {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 12px 12px;
+}
+.title{
+  font-size: 20px;
+  font-weight: 600;
+}
