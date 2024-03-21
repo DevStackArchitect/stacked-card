@@ -32,7 +32,7 @@ To get started with the Stacked Animated Card Slider in your project, follow the
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/stacked-animated-card-slider.git
+git clone https://github.com/DevStackArchitect/stacked-card.git
 cd stacked-animated-card-slider
 ```
 
