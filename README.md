@@ -33,7 +33,7 @@ To get started with the Stacked Animated Card Slider in your project, follow the
 
 ```bash
 git clone https://github.com/DevStackArchitect/stacked-card.git
-cd stacked-animated-card-slider
+cd stacked-card
 ```
 
 2. Install the required dependencies:
